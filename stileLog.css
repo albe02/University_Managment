@@ -1,0 +1,116 @@
+@font-face {
+    font-family: 'Quantify';
+    src: url('Quantify.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+#containerEsterno, body, html{
+    background-color: #563440;
+}
+html, body{
+    font-family: 'Quantify' , Arial, sans-serif;
+}
+
+#containerEsterno #banner{
+    margin: auto;
+    text-align: center;
+    color: #CFCFCD;
+}
+
+#containerEsterno #banner h1{
+    font-weight: bold;
+    font-size: 300%;
+    font-family: 'Quantify', Arial, sans-serif;
+}
+
+#containerEsterno #containerInterno{
+    background-color: #7A3B69;
+    margin:auto;
+    padding-top: 1%;
+    padding-bottom:1%;
+    border-radius: 25px;
+}
+
+#containerEsterno #containerInterno #campiForm{
+    background-color: #9A879D;
+    margin: auto;
+    padding-top: 1%;
+    border-radius: 3%;
+
+}
+
+
+.custom-bg{
+    background-color: #CFCFCD;
+}
+
+#containerEsterno #containerInterno #campiForm #ricLog{
+    margin: auto;
+    padding-bottom: 2%;
+}
+
+#containerEsterno #containerInterno #campiForm form #login{
+    justify-content: end;
+    border: none;
+    margin: auto;
+}
+
+#containerEsterno #containerInterno #campiForm form{
+    margin: auto;
+}
+
+#containerEsterno #containerInterno #campiForm form #eMail{
+    margin: auto;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 1%;
+}
+
+#containerEsterno #containerInterno #campiForm form #psw{
+    margin: auto;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 1%;
+}
+
+#containerEsterno #containerInterno #campiForm form #user{
+    margin: auto;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 1%;
+}
+
+
+#containerEsterno #containerInterno #campiForm #ricordami{
+    
+    color: #563440;
+}
+
+#containerEsterno #containerInterno #campiForm form #login button{
+    margin: auto;
+    width: 96%;
+    background-color: #CFCFCD;
+    border-color: #CFCFCD;
+    color: #7A3B69;
+
+}
+
+#containerEsterno #containerInterno #campiForm #accessPrivacy{
+    margin: auto;
+    padding-bottom: 2%;
+}
+
+#containerEsterno #containerInterno #campiForm #accessPrivacy #accessibilita{
+    margin: auto;
+    align-items: start;
+}
+
+.custom-link{
+    font-size: 10%;
+}
+
+#containerEsterno #containerInterno #campiForm #fondo{
+    margin: auto;
+}
+
